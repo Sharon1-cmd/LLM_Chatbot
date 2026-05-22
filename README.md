@@ -345,7 +345,7 @@ If this project helped you, please give it a star on GitHub!
 
 <div align="center">
 
-**Made with ❤️ by Your Name**
+**Made with ❤️ by Your Sharon Manohar
 
 [⬆ Back to Top](#-financial-advisory-chatbot-with-gradio--tinyllama)
 
